@@ -1,0 +1,30 @@
+*, *::before, *::after {
+    box-sizing: border-box;
+    font-family: 'Outfit', sans-serif;
+}
+
+body{
+    text-align: center;
+    background-color: #d5e1ef;
+}
+
+div {
+    background: white ;
+    width: 20%;
+    margin: 8em auto;
+    padding:.80em .80em .5em;
+    box-shadow: 0 5px 10px rgba(0,0,0,.15);
+    border-radius: 1.2em;
+}
+img {
+    width: 97%;
+    border-radius: .7em;
+}
+h4{
+    font-weight: normal;
+    color: #7d8183;
+}
+h6 {
+    margin-bottom: 0;
+    font-weight: normal;
+}
